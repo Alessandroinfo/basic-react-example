@@ -1,5 +1,5 @@
 import ReactDOM from "react-dom/client";
-import Hello from "./src/components/hello";
+import Hello from "./components/hello";
 import React from "react";
 
 const rootElement = document.getElementById("root");
