@@ -1,0 +1,1 @@
+- Scrivi tutto in inglese dai commenti alle variabili ai messaggi di commit.
